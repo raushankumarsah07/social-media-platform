@@ -1,4 +1,4 @@
-# Loop – Mini Social Media App (MERN)
+# SMF – Mini Social Media App (MERN)
 
 A small social network built with **MongoDB, Express.js, React (Vite) and Node.js**.
 
